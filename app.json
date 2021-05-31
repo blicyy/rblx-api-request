@@ -1,0 +1,19 @@
+{
+
+  "name": "Roblox API Request on Heroku",
+  "description": "Set up your express server with Roblox API requests on Heroku easily",
+  "repository": "https://github.com/iceisblue/rblx-api-request",
+  "logo": "https://i.imgur.com/jojMaQJ.png",
+  "keywords": [
+      "heroku", 
+      "roblox", 
+      "node",
+      "npm"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+
+}
